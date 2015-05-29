@@ -1,15 +1,3 @@
-Hi,
-
-I've used some python before but actually never used flask or implemented any REST.
-
-This is done within 8 hours including searching and reading.
-
-I didn't do the group part because I really don't have enough time these several weeks.
-
-
-
-
-
 Setup:
 
 	Change the path in 'app.py' accordingly before you start.
