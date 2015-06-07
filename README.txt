@@ -59,7 +59,6 @@ Test:
 		***********
 		
 		You can create user, show all user, delete user, and show all user again.
-		It will return a 500 (I don't know why but will delete the user)
 		If you delete the same id again it will output a 404
 	
 		
